@@ -36,6 +36,8 @@
 <h2>Example Prediction</h2>
 <p>Here's an example prediction output:</p>
 
+![Screenshot (70)](https://github.com/himeshapathirana/preDisease/assets/94542536/4cd7e53f-8afe-4c60-9809-4ac21d22d2a4)
+
 
 
 <h2>Contributing</h2>
